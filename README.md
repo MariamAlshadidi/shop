@@ -21,6 +21,7 @@
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
+- Responsive UI for multiple screens
 
 ### Env Variables
 
