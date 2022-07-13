@@ -72,3 +72,11 @@ npm run data:import
 # Destroy data
 npm run data:destroy
 ```
+
+##admin screens
+![2](https://user-images.githubusercontent.com/87587492/178826150-a33f7ddb-227a-47e8-b3d3-23942668f721.png)
+
+![3](https://user-images.githubusercontent.com/87587492/178826194-5f821ca3-1e76-4f03-9175-a4a0b430721e.png)
+![4](https://user-images.githubusercontent.com/87587492/178826219-3483a1c9-a128-4ff6-854b-f260f37c73a9.png)
+![6](https://user-images.githubusercontent.com/87587492/178826322-2f53b1d9-637c-489f-a81e-9350f30e816c.png)
+![5](https://user-images.githubusercontent.com/87587492/178826307-9ce14b4e-bd42-4f82-a4ec-b003378d09e4.png)
