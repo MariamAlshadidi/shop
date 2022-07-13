@@ -1,13 +1,15 @@
 # BroShop eCommerce 
+```
+Full Stack E-commerce WebApp built with the MERN stack & Redux. you are welcome to check by visiting live version on below link.
+Try it: https://elcshop.herokuapp.com/ 
 
-> eCommerce platform built with the MERN stack & Redux.
- 
- Try it: https://elcshop.herokuapp.com/ 
+```
+
  
  
  
  ## Features
-
+```
 - Full featured shopping cart
 - Product reviews and ratings
 - Top products carousel
@@ -22,11 +24,13 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 - Responsive UI for multiple screens
+```
+______________________________________________________________________________________________________________________________________________
 
-### Env Variables
+
+## Env Variables
 
 Create a .env file in then root and add the following
-
 ```
 NODE_ENV = development
 PORT = 5000
