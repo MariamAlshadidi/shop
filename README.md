@@ -1,4 +1,4 @@
-# BroShop eCommerce Platform
+# BroShop eCommerce 
 
 > eCommerce platform built with the MERN stack & Redux.
  
