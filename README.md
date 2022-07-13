@@ -5,9 +5,6 @@ Try it: https://elcshop.herokuapp.com/
 
 ```
 
- 
- 
- 
  ## Features
 ```
 - Full featured shopping cart
@@ -25,8 +22,23 @@ Try it: https://elcshop.herokuapp.com/
 - Database seeder (products & users)
 - Responsive UI for multiple screens
 ```
-______________________________________________________________________________________________________________________________________________
 
+## Languages & tools
+```
+front end:
+ReactJS - Frontend framework.
+React Router Dom - For routing & navigation.
+axios - For fetching data from API.
+
+back end:
+NodeJS - back-end JavaScript runtime environment.
+Express - back end web application framework.
+MongoDB - Database to store document-based data.
+Mongoose - MongoDB object modeling for Node.js.
+JSON Web Token - A standard to secure/authenticate HTTP requests.
+Bcrypt.js - For hashing passwords.
+Dotenv - To load environment variables from a .env file.
+```
 
 ## Env Variables
 
@@ -80,7 +92,6 @@ npm run data:destroy
 
 ## admin screens
 ![2](https://user-images.githubusercontent.com/87587492/178826150-a33f7ddb-227a-47e8-b3d3-23942668f721.png)
-
 ![3](https://user-images.githubusercontent.com/87587492/178826194-5f821ca3-1e76-4f03-9175-a4a0b430721e.png)
 ![4](https://user-images.githubusercontent.com/87587492/178826219-3483a1c9-a128-4ff6-854b-f260f37c73a9.png)
 ![5](https://user-images.githubusercontent.com/87587492/178826307-9ce14b4e-bd42-4f82-a4ec-b003378d09e4.png)
