@@ -1,6 +1,8 @@
 # BroShop eCommerce 
 ```
-Full Stack E-commerce WebApp built with the MERN stack & Redux. you are welcome to check by visiting live version on below link.
+Full Stack E-commerce WebApp built with the MERN stack & Redux. you are welcome to check by 
+visiting live version on below link.
+
 Try it: https://elcshop.herokuapp.com/ 
 
 ```
